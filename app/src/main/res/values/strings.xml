@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Maps App</string>
+    <string name="title_activity_maps">Vista Map</string>
+
+    <string name="distance_to_format">To %.2f m</string>
+    <string name="need_location_permission_dialog_title">Necesita permiso de ubicación</string>
+    <string name="need_location_permission_dialog_message">Tienes que permitir este permiso para usar la aplicación.</string>
+    <string name="no" translatable="false">No</string>
+</resources>

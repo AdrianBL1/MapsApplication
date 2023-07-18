@@ -31,7 +31,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyA63211lvCFANca5Hdw5_EVmG9LSV65cH0" />
+            android:value="TU_API" />
 
         <activity
             android:name=".PanelPrincipal"

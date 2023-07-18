@@ -48,7 +48,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
 
     var poly: Polyline? = null
 
-    private val DIRECTIONS_API_KEY = "AIzaSyA63211lvCFANca5Hdw5_EVmG9LSV65cH0"
+    private val DIRECTIONS_API_KEY = "TU_API"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
